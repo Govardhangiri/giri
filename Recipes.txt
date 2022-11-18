@@ -3,6 +3,9 @@ pongali
 pappu
 keer
 
+beans 
+pizza
+
 thankyou
 
 finalcopy
